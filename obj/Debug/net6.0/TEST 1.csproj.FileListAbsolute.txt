@@ -1,0 +1,15 @@
+C:\Users\charb\Desktop\TEST 1\bin\Debug\net6.0\TEST 1.exe
+C:\Users\charb\Desktop\TEST 1\bin\Debug\net6.0\TEST 1.deps.json
+C:\Users\charb\Desktop\TEST 1\bin\Debug\net6.0\TEST 1.runtimeconfig.json
+C:\Users\charb\Desktop\TEST 1\bin\Debug\net6.0\TEST 1.dll
+C:\Users\charb\Desktop\TEST 1\bin\Debug\net6.0\TEST 1.pdb
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.csproj.AssemblyReference.cache
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.AssemblyInfoInputs.cache
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.AssemblyInfo.cs
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.csproj.CoreCompileInputs.cache
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.dll
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\refint\TEST 1.dll
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.pdb
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\TEST 1.genruntimeconfig.cache
+C:\Users\charb\Desktop\TEST 1\obj\Debug\net6.0\ref\TEST 1.dll
